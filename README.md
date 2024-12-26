@@ -1,1 +1,2 @@
-# This is may git demo2 file
+# This is my git demo2 file
+# did some bug fixing
